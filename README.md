@@ -1,7 +1,9 @@
 # HOLA A TODOS👋, BIENVENIDOS A MI PERFIL DE GITHUB
 
-<center><img src="https://img.freepik.com/vector-gratis/nina-feliz-mariposa_1450-103.jpg?size=338&ext=jpg&ga=GA1.1.672697106.1717718400&semt=ais_user"/></center>
- 
+<div align="center">
+  <img src="https://img.freepik.com/vector-gratis/nina-feliz-mariposa_1450-103.jpg?size=338&ext=jpg&ga=GA1.1.672697106.1717718400&semt=ais_user" alt="Niña feliz con mariposa"/>
+</div>
+
  <p>- <i>Mi nombre es: Maria Kenia Mejia Hernandez tengo 16 años de edad, estoy cursando el 4AMP, especialidad programacion, durante estos 4 semestres trabajamos en los diferentes lenguajes de programacion, como: Java, JavaScript, HTML, PHP, C++, a sido una experiencia bonita el practicar como funcionan esos lenguajes y todo lo que podemos lograr hacer</i></p>
 
 
