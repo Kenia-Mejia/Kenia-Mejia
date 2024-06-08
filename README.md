@@ -11,12 +11,13 @@
 
 </br>
 
-- 🔧 I am currently studying at the Cetis 17.
+- 📫 Soy estudiante
+- 🔧 Actualmente estoy estudiando en el Cetis 17.
 
-- 💡 I’m curious about aprender nuevos temas de programacion
-- 📖 I’m currently learning : HTML, PHP, CSS.
-- ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...gkaustav57@gmail.com.
+- 💡 Tengo curiosidad por aprender nuevos temas y lenguajes de programacion
+- 📖 Actualmente estoy aprendiendo : HTML, PHP, CSS.
+- ❄️ Me gusta realizar la elaboracion de proyectos porque logramos aprender y entender mas su funcionalidad de los lenguajes.
+
 
 <hr>
 
